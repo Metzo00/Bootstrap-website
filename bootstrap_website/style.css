@@ -39,6 +39,23 @@ body {
   padding-bottom: 1rem;
 }
 
+
+.mobile_friendly{
+  text-align: center;
+  margin: 40px;
+  padding: 20px;
+}
+
+.mobile_friendly_title {
+  padding: 20px;
+}
+.mobile_friendly_text {
+  font-size: 1.4rem;
+}
+.mobile_friendly_text a {
+  margin: 20px
+}
+
 .btn-primary {
   background-color: #6648b1;
   border: 1px solid #6648b1;
@@ -50,7 +67,7 @@ body {
 }
 .text {
   position: absolute;
-  top: 30%;
+  top: 20%;
   font-size: 1.3rem;
   padding-right: 0.2rem;
 }
